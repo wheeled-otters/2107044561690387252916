@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546417427741",
+    "project_id": "guide-via-pay",
+    "storage_bucket": "guide-via-pay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546417427741:android:ad57c07746c463ce988df4",
+        "android_client_info": {
+          "package_name": "com.viapaysolution.consulta.recibo.luz.cfe.guia.completa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546417427741-6r1u3dikqlesulir6mlr7tnki7pb6gqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-WtdCqiXHLVCpOgdEKBsG7tr19Ypt-uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546417427741-6r1u3dikqlesulir6mlr7tnki7pb6gqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
